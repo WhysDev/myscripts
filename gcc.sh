@@ -44,7 +44,6 @@ DEVICE="whyred"
 # The defconfig which should be used. Get it from config.gz from
 # your device or check source
 DEFCONFIG=whyred_defconfig
-DEFCONFIG=whyred-newcam_defconfig
 
 ##------------------------------------------------------##
 ##---------Do Not Touch Anything Beyond This------------##
